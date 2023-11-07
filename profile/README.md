@@ -70,7 +70,7 @@ Please read our [Code of Conduct](https://docs.uitsmijter.io/contribution/codeof
 
 # Maintaining Company
 <p style="text-align: center;">
-   <img src="/profile/adt.svg" width="200"/><br />
+  <img src="/profile/adt.svg" onclick="window.open('https://www.ausdertechnik.de')" width="200"/><br />
   Uitsmijter is a product of <a href="https://www.ausdertechnik.de">aus der Technik</a>
 </p>
 
