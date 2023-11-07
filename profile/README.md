@@ -1,5 +1,5 @@
 
-![Uitsmijter](./uitsmijter-horizontal-color.svg)
+![Uitsmijter](/profile/uitsmijter-horizontal-color.svg)
 **A versatile authorisation middleware with a complete oauth2 SSO solution without an own user-database.**
 
 ## Uitsmijter is
