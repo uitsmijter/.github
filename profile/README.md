@@ -42,7 +42,7 @@ The documentation can be found at [docs.uitsmijter.io](https://docs.uitsmijter.i
 
 ## Docker Container & Helm Packagesa 
 - [Uitsmijter Docker Images](https://github.com/uitsmijter/Uitsmijter/pkgs/container/uitsmijter)
-- [Uitsmijter Helm Packages](https://helm.uitsmijter.io)
+- [Uitsmijter Helm Packages](https://charts.uitsmijter.io)
 
 ## Support
 We are very pleased to talk to you.
