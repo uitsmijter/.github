@@ -56,7 +56,7 @@ For all kind of help and feature wishes, the [discourse](https://discourse.uitsm
 
 If you find a bug, please [create an issue](https://github.com/uitsmijter/Uitsmijter/issues/new).
 
-We run a [Mastodon instance](https://social.uitsmijter.io/home) on which some bots report on the status of the project, but where the developers 
+We run a [Mastodon instance](https://social.uitsmijter.io/public/local) on which some bots report on the status of the project, but where the developers 
 also hang out.
 
 Here are some accounts of interest: 
