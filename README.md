@@ -1,2 +1,2 @@
-# .github
-Uitsmijter organisation profile page
+# Uitsmijter
+This repository hosts the Organisation profile page.
